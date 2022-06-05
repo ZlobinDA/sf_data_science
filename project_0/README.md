@@ -29,21 +29,16 @@
 * Учимся работать с GitHub.
 
 ### Краткая информация о данных
-....
+Данные, необходимые для работы программы, генерируются автоматически с помощью функции рандомных чисел.
 
 :arrow_up:[к оглавлению](https://github.com/ZlobinDA/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Этапы работы над проектом
-....
+За основу была взята программа из учебного модуля, которой требовалось в среднем 100 попыток для угадывания числа.
 
 :arrow_up:[к оглавлению](https://github.com/ZlobinDA/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Результат
-....
-
-:arrow_up:[к оглавлению](https://github.com/ZlobinDA/sf_data_science/blob/main/project_0/README.md#Оглавление)
-
-### Выводы
-....
+Модифицированная программа угадывает число в среднем за 9 попыток.
 
 :arrow_up:[к оглавлению](https://github.com/ZlobinDA/sf_data_science/blob/main/project_0/README.md#Оглавление)
